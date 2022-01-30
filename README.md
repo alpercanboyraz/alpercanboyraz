@@ -8,4 +8,4 @@ I am currently a computer engineering student. I'm working on game development.
 
 -->
 
-
+![snake svg](https://github.com/alpercanboyraz/alpercanboyraz/blob/output/github-contribution-grid-snake.svg)
