@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a computer engineering student. I am working on game development.
+I am currently a computer engineering student. I'm working on game development.
 
 
 - 🔭 I’m currently working on unity (3D)
